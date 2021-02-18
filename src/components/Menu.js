@@ -3,22 +3,22 @@ import Link from 'next/link';
 const Menu = () => (
   <ul className="menu">
     <li>
-      <Link href="/">
+      <Link href="https://sydhsn.github.io/trainingportal/">
         <a>Home</a>
       </Link>
     </li>
     <li>
-      <Link href="/training">
+      <Link href="https://sydhsn.github.io/trainingportal/training">
         <a>Training</a>
       </Link>
     </li>
     <li>
-      <Link href="/courses">
+      <Link href="https://sydhsn.github.io/trainingportal/courses">
         <a>Courses</a>
       </Link>
     </li>
     <li>
-      <Link href="/about">
+      <Link href="https://sydhsn.github.io/trainingportal/about">
         <a>About</a>
       </Link>
     </li>
