@@ -6,22 +6,22 @@ const Training = () => (
     <div className="services">
       <div className="services-list">
         <div className="item">
-          <img src="https://sydhsn.github.io/trainingportal/static/services/training.png" />
+          <img src="https://github.com/sydhsn/trainingportal/tree/master/static/services/training.png" />
           <h2>Employee Training</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
         <div className="item">
-        <img src="https://sydhsn.github.io/trainingportal/static/services/training.png" />
+        <img src="https://github.com/sydhsn/trainingportal/tree/master/static/services/training.png" />
           <h2>Student Training</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
         <div className="item">
-        <img src="https://sydhsn.github.io/trainingportal/static/services/training.png" />
+        <img src="https://github.com/sydhsn/trainingportal/tree/master/static/services/training.png" />
           <h2>Online Project</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>
         <div className="item">
-        <img src="https://sydhsn.github.io/trainingportal/static/services/training.png" />
+        <img src="https://github.com/sydhsn/trainingportal/tree/master/static/services/training.png" />
           <h2>Class Room Training</h2>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet rhoncus mi ac porta.</p>
         </div>

@@ -9,7 +9,7 @@ const About = () => (
       </li>
     </ul>
     <div className="about-text">
-      <img src="https://sydhsn.github.io/trainingportal/static/studio.jpg" />
+      <img src="https://github.com/sydhsn/trainingportal/tree/master/static/studio.jpg" />
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut est euismod, iaculis ante efficitur, sodales
         nisl. Nulla non orci vitae nibh ullamcorper finibus. Morbi a nisl tempor, sodales ex quis, aliquet neque. Lorem

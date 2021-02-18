@@ -6,7 +6,7 @@ const Courses = () => {
   const imageCount = 14;
 
   for (let i = imageCount; i > 0; i--) {
-    images.push(`https://sydhsn.github.io/trainingportal/static/portfolio/${i}.jpg`);
+    images.push(`https://github.com/sydhsn/trainingportal/tree/master/static/static/portfolio/${i}.jpg`);
   }
 
   return (

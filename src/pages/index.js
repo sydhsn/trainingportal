@@ -3,10 +3,10 @@ import Layout from '../components/Layout';
 import Gallery from '../components/Gallery';
 
 const images = [
-  'https://sydhsn.github.io/trainingportal/static/portfolio/14.jpg',
-  'https://sydhsn.github.io/trainingportal/static/portfolio/13.jpg',
-  'https://sydhsn.github.io/trainingportal/static/portfolio/12.jpg',
-  'https://sydhsn.github.io/trainingportal/static/portfolio/11.jpg'
+  'https://github.com/sydhsn/trainingportal/tree/master/static/portfolio/14.jpg',
+  'https://github.com/sydhsn/trainingportal/tree/master/static/portfolio/13.jpg',
+  'https://github.com/sydhsn/trainingportal/tree/master/static/portfolio/12.jpg',
+  'https://github.com/sydhsn/trainingportal/tree/master/static/portfolio/11.jpg'
 ];
 
 const Homepage = () => (
