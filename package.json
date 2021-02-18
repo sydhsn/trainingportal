@@ -1,0 +1,44 @@
+{
+  "name": "conceptvision",
+  "version": "1.0.0",
+  "description": "Online Javascript training and college final year project training with support.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export -o public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "online",
+    "training",
+    "javascript",
+    "training",
+    "javascrpt",
+    "classes",
+    "virtual",
+    "calsses",
+    "javascript",
+    "college",
+    "project",
+    "trainingconcept",
+    "vision",
+    "classes",
+    "training.",
+    "React",
+    "Js",
+    "Angular",
+    "Js",
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "conceptvision",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
