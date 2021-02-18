@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
+          <link rel="shortcut icon" type="image/x-icon" href="https://sydhsn.github.io/trainingportal/static/favicon.ico" />
         </Head>
         <body>
           <Main />
